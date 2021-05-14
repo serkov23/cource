@@ -1,0 +1,467 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.26)  28 APR 2021 08:36
+entering extended mode
+**D:/projects/WolframMathematica/курсач2/курс/k1.tex
+(D:/projects/WolframMathematica/курсач2/курс/k1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (D:\MikTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MikTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\MikTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(D:\MikTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MikTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+))
+(D:\MikTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(D:\MikTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks16
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(D:\MikTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MikTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MikTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\c@mathematicapage=\count199
+
+(D:\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box49
+) (k1.aux)
+\openout1 = `k1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(D:\MikTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen148
+\scratchbox=\box50
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen149
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks21
+) (D:\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\MikTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+(D:\MikTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+ (D:\MikTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (20.72525pt too wide) in paragraph at lines 21--35
+[][] 
+ []
+
+
+Overfull \hbox (184.98692pt too wide) in paragraph at lines 21--35
+[][] 
+ []
+
+
+Overfull \hbox (118.93329pt too wide) in paragraph at lines 21--35
+[][] 
+ []
+
+
+Overfull \hbox (324.17732pt too wide) in paragraph at lines 21--35
+[][] 
+ []
+
+
+Overfull \hbox (194.08723pt too wide) in paragraph at lines 42--46
+[]$ 
+ []
+
+Package epstopdf Info: Source file: <k1_gr1.eps>
+(epstopdf)                    date: 2021-04-28 08:31:44
+(epstopdf)                    size: 115525 bytes
+(epstopdf)             Output file: <k1_gr1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:39
+(epstopdf)                    size: 83165 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr1-eps-converted
+-to.pdf k1_gr1.eps>
+(epstopdf)             \includegraphics on input line 48.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr1-eps-converted-to.pdf, id=1, 282.05376pt x 248.93pt>
+File: k1_gr1-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr1-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr1-eps-converted-to.pdf  used on input line 48.
+(pdftex.def)             Requested size: 282.05305pt x 248.92938pt.
+[1
+
+{C:/Users/Пользователь/AppData/Local/MiKTeX/pdftex/config/pdftex.ma
+p}]
+Overfull \hbox (278.22485pt too wide) in paragraph at lines 51--54
+$[][] 
+ []
+
+
+Overfull \hbox (140.95094pt too wide) in paragraph at lines 76--79
+$[][] 
+ []
+
+[2 <./k1_gr1-eps-converted-to.pdf>]
+Overfull \hbox (253.8474pt too wide) in paragraph at lines 86--94
+[][] 
+ []
+
+
+Overfull \hbox (201.18098pt too wide) in paragraph at lines 86--94
+[][] 
+ []
+
+Package epstopdf Info: Source file: <k1_gr2.eps>
+(epstopdf)                    date: 2021-04-28 08:31:44
+(epstopdf)                    size: 111131 bytes
+(epstopdf)             Output file: <k1_gr2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:41
+(epstopdf)                    size: 81713 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr2-eps-converted
+-to.pdf k1_gr2.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr2-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr2-eps-converted-to.pdf, id=52, 282.05376pt x 287.0725pt>
+File: k1_gr2-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr2-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr2-eps-converted-to.pdf  used on input line 96.
+(pdftex.def)             Requested size: 282.05305pt x 287.0718pt.
+
+Overfull \hbox (42.45554pt too wide) in paragraph at lines 103--107
+$[][] 
+ []
+
+[3 <./k1_gr2-eps-converted-to.pdf>]
+Overfull \hbox (365.36969pt too wide) in paragraph at lines 118--120
+$[]$ 
+ []
+
+
+Overfull \hbox (297.50026pt too wide) in paragraph at lines 129--133
+$[][] 
+ []
+
+Package epstopdf Info: Source file: <k1_gr3.eps>
+(epstopdf)                    date: 2021-04-28 08:31:45
+(epstopdf)                    size: 105937 bytes
+(epstopdf)             Output file: <k1_gr3-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:43
+(epstopdf)                    size: 75828 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr3-eps-converted
+-to.pdf k1_gr3.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr3-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr3-eps-converted-to.pdf, id=94, 282.05376pt x 287.0725pt>
+File: k1_gr3-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr3-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr3-eps-converted-to.pdf  used on input line 135.
+(pdftex.def)             Requested size: 282.05305pt x 287.0718pt.
+Package epstopdf Info: Source file: <k1_gr4.eps>
+(epstopdf)                    date: 2021-04-28 08:31:45
+(epstopdf)                    size: 129781 bytes
+(epstopdf)             Output file: <k1_gr4-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:45
+(epstopdf)                    size: 107697 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr4-eps-converted
+-to.pdf k1_gr4.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr4-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr4-eps-converted-to.pdf, id=95, 281.05pt x 284.06125pt>
+File: k1_gr4-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr4-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr4-eps-converted-to.pdf  used on input line 142.
+(pdftex.def)             Requested size: 281.0493pt x 284.06053pt.
+[4 <./k1_gr3-eps-converted-to.pdf>]
+Overfull \hbox (104.7564pt too wide) in paragraph at lines 153--157
+$[][] 
+ []
+
+[5 <./k1_gr4-eps-converted-to.pdf>]
+Overfull \hbox (2.19395pt too wide) in paragraph at lines 186--188
+$[]$ 
+ []
+
+
+Overfull \hbox (63.0839pt too wide) in paragraph at lines 195--197
+[]$ 
+ []
+
+
+Overfull \hbox (122.42247pt too wide) in paragraph at lines 216--221
+$[][] 
+ []
+
+
+Overfull \hbox (285.50624pt too wide) in paragraph at lines 216--221
+[][] 
+ []
+
+Package epstopdf Info: Source file: <k1_gr5.eps>
+(epstopdf)                    date: 2021-04-28 08:31:46
+(epstopdf)                    size: 139305 bytes
+(epstopdf)             Output file: <k1_gr5-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:47
+(epstopdf)                    size: 120668 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr5-eps-converted
+-to.pdf k1_gr5.eps>
+(epstopdf)             \includegraphics on input line 223.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr5-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr5-eps-converted-to.pdf, id=181, 281.05pt x 286.06876pt>
+File: k1_gr5-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr5-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr5-eps-converted-to.pdf  used on input line 223.
+(pdftex.def)             Requested size: 281.0493pt x 286.06805pt.
+[6]
+Overfull \hbox (22.66975pt too wide) in paragraph at lines 226--231
+[][] 
+ []
+
+
+Overfull \hbox (285.50624pt too wide) in paragraph at lines 226--231
+[][] 
+ []
+
+Package epstopdf Info: Source file: <k1_gr6.eps>
+(epstopdf)                    date: 2021-04-28 08:31:46
+(epstopdf)                    size: 138066 bytes
+(epstopdf)             Output file: <k1_gr6-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:49
+(epstopdf)                    size: 117674 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr6-eps-converted
+-to.pdf k1_gr6.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr6-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr6-eps-converted-to.pdf, id=186, 281.05pt x 284.06125pt>
+File: k1_gr6-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr6-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr6-eps-converted-to.pdf  used on input line 233.
+(pdftex.def)             Requested size: 281.0493pt x 284.06053pt.
+[7 <./k1_gr5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <k1_gr7.eps>
+(epstopdf)                    date: 2021-04-28 08:31:46
+(epstopdf)                    size: 34027 bytes
+(epstopdf)             Output file: <k1_gr7-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:50
+(epstopdf)                    size: 24037 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr7-eps-converted
+-to.pdf k1_gr7.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr7-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr7-eps-converted-to.pdf, id=246, 158.5925pt x 308.15125pt>
+File: k1_gr7-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr7-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr7-eps-converted-to.pdf  used on input line 240.
+(pdftex.def)             Requested size: 158.59209pt x 308.15048pt.
+[8 <./k1_gr6-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <k1_gr8.eps>
+(epstopdf)                    date: 2021-04-28 08:31:46
+(epstopdf)                    size: 149098 bytes
+(epstopdf)             Output file: <k1_gr8-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-28 08:36:53
+(epstopdf)                    size: 129610 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=k1_gr8-eps-converted
+-to.pdf k1_gr8.eps>
+(epstopdf)             \includegraphics on input line 246.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./k1_gr8-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<k1_gr8-eps-converted-to.pdf, id=284, 281.05pt x 246.9225pt>
+File: k1_gr8-eps-converted-to.pdf Graphic file (type pdf)
+<use k1_gr8-eps-converted-to.pdf>
+Package pdftex.def Info: k1_gr8-eps-converted-to.pdf  used on input line 246.
+(pdftex.def)             Requested size: 281.0493pt x 246.92188pt.
+[9 <./k1_gr7-eps-converted-to.pdf>]
+Overfull \hbox (168.49918pt too wide) in paragraph at lines 254--258
+$[]$ 
+ []
+
+
+Overfull \hbox (162.8097pt too wide) in paragraph at lines 261--264
+$[][] 
+ []
+
+[10 <./k1_gr8-eps-converted-to.pdf>]
+Overfull \hbox (106.9609pt too wide) in paragraph at lines 316--324
+[]$ 
+ []
+
+[11]
+Overfull \hbox (61.91724pt too wide) in paragraph at lines 327--343
+$[]$ 
+ []
+
+[12] [13]
+Overfull \hbox (1511.82056pt too wide) in paragraph at lines 456--463
+$\OMS/cmsy/m/n/10  [] []$ 
+ []
+
+[14] [15] [16]
+Overfull \hbox (1832.27806pt too wide) in paragraph at lines 617--737
+$[]$ 
+ []
+
+[17] (k1.aux) ) 
+Here is how much of TeX's memory you used:
+ 2321 strings out of 479321
+ 30475 string characters out of 2873116
+ 381359 words of memory out of 3000000
+ 19783 multiletter control sequences out of 15000+600000
+ 406538 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,18n,74p,447b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTeX/
+fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/MikTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Mik
+TeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MikTeX/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/MikTeX
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts
+/cm/cmss8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/f
+onts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb>
+Output written on k1.pdf (17 pages, 902335 bytes).
+PDF statistics:
+ 409 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

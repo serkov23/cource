@@ -1,0 +1,51 @@
+\ProvidesPackage{dssco-rus}
+
+% FOR BSU
+\topmargin -9.2mm \headheight 5mm \headsep 4.7mm
+\textheight = 237mm \textwidth = 155mm
+\footskip = 9mm
+\oddsidemargin 0mm
+\evensidemargin 2.8mm
+
+\RequirePackage[english, russian]{babel}
+\RequirePackage{graphicx}
+\RequirePackage{epstopdf}
+\RequirePackage{amsmath, amsfonts,amssymb, mathenv}
+\RequirePackage{eucal, epsf,epic, eepic}
+
+\sloppy
+
+% -----------------------------------------------------------------
+\renewcommand{\title}[1]{\begin{center}{\bfseries\uppercase{#1}}\par\smallskip}
+\renewcommand{\author}[1]{{\bfseries #1}\par\smallskip}
+\newcommand{\address}[1]{\smallskip{\small #1}\par}
+\newcommand{\email}[1]{\small \texttt{#1}\par}
+\renewcommand{\maketitle}{\end{center}\par}
+
+% -----------------------------------------------------------------
+\newtheorem{theorem}{Теорема}
+\newtheorem{corollary}{Следствие}
+\newtheorem{lemma}{Лемма}
+\newtheorem{proposition}{Утверждение}
+\newtheorem{remark}{Замечание}
+\newtheorem{example}{Пример}
+\newtheorem{definition}{Определение}
+
+\newcommand{\proof}{\vspace{-3mm}\par\mbox{Д о к а з а т е л ь с т в о.}\hspace{2mm}}
+\newcommand{\proofnp}{\vspace{-3mm}\par\mbox{Д о к а з а т е л ь с т в о}\hspace{2mm}}
+
+\def\@begintheorem#1#2{\trivlist \item[\hskip\parindent
+\hskip\labelsep \bf #1\ #2{.}] \it}
+
+% -----------------------------------------------------------------
+\renewcommand{\section}{\@startsection{section}{1}{\parindent}%
+    {2mm}{-2mm}{\normalfont\bfseries}}
+
+\renewcommand{\thesection}{\arabic{section}.}
+
+% -----------------------------------------------------------------
+\def\@biblabel#1{#1.}
+\newenvironment{biblio}{\begin{thebibliography}{99} \small \itemsep -0.3em} {\end{thebibliography}}
+
+
+\newcommand{\contline}[2]{\addcontentsline{toc}{}{\protect{\textbf{#1} #2}}}
